@@ -11,8 +11,9 @@
 	"author": "Bonfirium",
 	"license": "MIT",
 	"dependencies": {
-		"pixi.js": "^4.8.1",
-		"hashofspace.js-lib": "latest"
+		"bignumber.js": "^7.2.1",
+		"hashofspace.js-lib": "latest",
+		"pixi.js": "^4.8.1"
 	},
 	"devDependencies": {
 		"babel-core": "^6.26.3",
